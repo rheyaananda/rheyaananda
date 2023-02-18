@@ -1,8 +1,11 @@
-# Halo semua! 
+# Hi there, i'm Rheya 👋
 
-Perkenalkan nama saya **Rheya Ananda**.
+**i am an IT student at Universitas Udayana**
 
-Saya seorang **Mahasiswa** di [Universitas Udayana](https://www.unud.ac.id/).
+i'm currently learning in machine learning ✨
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rheya-ananda/)ku ya.
 
+## how to reach me 📱
+📥 you can connect with me on [Linkedin](https://www.linkedin.com/in/rheya-ananda/)
+
+📷 and follow me on [Instagram](https://www.instagram.com/rheyaas/)
