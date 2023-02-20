@@ -2,7 +2,7 @@
 
 **i am an IT student at Universitas Udayana**
 
-i'm currently learning in machine learning ✨
+i'm currently studying machine learning ✨
 
 
 ## how to reach me 📱
