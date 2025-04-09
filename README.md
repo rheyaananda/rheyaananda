@@ -1,8 +1,8 @@
 # Hi there, i'm Rheya 👋
 
-**i am an IT student at Universitas Udayana**
+**i am a graduate IT student at Universitas Udayana**
 
-i'm currently studying machine learning ✨
+i'm currently into machine learning ✨
 
 
 ## how to reach me 📱
